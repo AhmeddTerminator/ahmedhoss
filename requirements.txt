@@ -1,0 +1,10 @@
+lorem-encryptor-gui
+src
+Encrypt.py
+decrypt.py
+gui.py
+utils.py
+requirements.txt
+Tkinter
+PyQt5
+```
